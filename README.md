@@ -1,8 +1,8 @@
 # Linux Default Settings
 
-  * Shell - [Debian](https://github.com/NullBins/Default-Set/blob/main/default-set.sh)
+  * Shell - [default-set.sh](https://github.com/NullBins/Default-Set/blob/main/default-set.sh)
 
-## Debian Linux
+## Debian based linux
 ```
 git clone "https://github.com/NullBins/Default-Set.git"
 cd ./Default-Set/
