@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # - COLORS - #
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-BLUE='\033[0;36m'
-NONE='\\033[0m'
+YELLOW='\[\033[1;33m\]'
+GREEN='\[\033[1;32m\]'
+BLUE='\[\033[1;36m\]'
+NONE='\[\033[0m\]'
 
 # - MAIN - #
 echo -e "${BLUE}|START| Start basic setup..${NONE}"
@@ -40,5 +40,5 @@ sleep 3s
 timedatectl set-timezone Asia/Seoul
 hwclock -w
 timedatectl status
-echo -e "${BLUE}MFA: |Finished| Complete Setup!${NONE}"
+echo -e "${BLUE}|Finished| Complete Setup!${NONE}"
 # - - - #
