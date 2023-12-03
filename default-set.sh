@@ -20,7 +20,7 @@ echo "nameserver 127.0.0.1" > /etc/resolv.conf
 echo "${YELLOW}|No.3| Enable to port forwarding.${NONE}\n"
 sleep 3s
 sed -i "28s/^#//g" /etc/sysctl.conf
-sed -i "35s/^#//g" /etc/sysctl.conf
+sed -i "33s/^#//g" /etc/sysctl.conf
 sysctl -p
 echo "${YELLOW}|No.4| Setting for /etc/ssh/sshd_config${NONE}\n"
 sleep 3s
