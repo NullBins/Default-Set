@@ -39,7 +39,7 @@ sleep 3s
 timedatectl set-timezone Asia/Seoul
 hwclock -w
 timedatectl status
-echo "${BLUE} Almost done . . . ${NONE}\n"
+echo "\n${BLUE} Almost done . . . ${NONE}\n"
 sleep 5s
 echo "${GREEN}|Finished| Complete Setup!${NONE}\n"
 # - - - #
