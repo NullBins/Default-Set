@@ -4,7 +4,7 @@
 
 ## Debian Environments
 ```
-wget https://github.com/NullBins/Default-Set/blob/main/default-set.sh -O default-set.sh
+git clone "https://github.com/NullBins/Default-Set.git"
 chmod +x ./default-set.sh
 sh ./default-set.sh
 ```
