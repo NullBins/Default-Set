@@ -1,6 +1,6 @@
 # The Linux server default setting shell file
 
-  * Shell - [default-set.sh](https://github.com/NullBins/Default-Set/blob/main/default-set.sh)
+  * Bash Shell - [default-set.sh](https://github.com/NullBins/Default-Set/blob/main/default-set.sh)
 
 ## User manual (Debian based linux OS)
 ```bash
