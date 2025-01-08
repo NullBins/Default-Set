@@ -1,4 +1,5 @@
 # The Linux server default setting shell file
+###### Repository for The Linux server default settings [ *Written by NullBins* ]
 
   * Bash Shell - [default-set.sh](https://github.com/NullBins/Default-Set/blob/main/default-set.sh)
 
